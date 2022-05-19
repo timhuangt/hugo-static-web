@@ -25,4 +25,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/20220519-youtube-trend.md
 - content/blog/a-new-post.md
