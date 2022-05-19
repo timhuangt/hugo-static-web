@@ -3,7 +3,7 @@ author = ["Tim"]
 categories = ["Youtube"]
 date = 2022-05-19T02:55:00Z
 description = "Youtube地區排行"
-image = ""
+image = "/images/gim2kprjl50.jpg"
 tags = ["Video", "Trend"]
 title = "20220519 Youtube Trend"
 
